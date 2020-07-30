@@ -7,7 +7,10 @@ In this app we are calling the POST /now/table/incidents api that Inserts one re
 Source repository: https://github.com/shubhamofbce/ServiceNow-Api
 
 I successfully setup the app by cloning it from repository and it took me 30 minutes to complete the setup. 
-``` Ticket was created successfully ``` 
+``` Ticket was created successfully ```
+
+The authorization details and table_api_name is provided in the ``` .env ``` file in this folder.
+
 Initially, it was giving autorization error in node and it was working fine on POSTMAN.
 But, there was an issue in the source code.
 
