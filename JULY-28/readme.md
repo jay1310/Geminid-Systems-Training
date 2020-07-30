@@ -15,4 +15,6 @@ In username, windows was automatically taking pc name.
 
 So, on updating the code, it worked correctly.
 
+In the evening session, I presented by work to the instructor by completing all the objectives.
+
 #### ``` THANK YOU ```
