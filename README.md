@@ -1,7 +1,7 @@
 # Geminid-Systems-Training
 
-This is regarding day to day activities during the training.
+This is regarding my day-to-day activities during the Geminid Systems training week.
 
-Here, I will update all my activities for each day of the training week.
+Here, I will update all my activities for each day of the training.
 
-``` Thank You for visiting this repository. ```
+###### ``` Thank You for visiting this repository. ```

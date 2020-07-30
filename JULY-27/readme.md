@@ -1,4 +1,4 @@
-# Daily Report#
+# Daily Report
 ### Date: July 27, 2020 ###
 ### Day : 1 ###
 
@@ -22,4 +22,4 @@ external sources including:
 9.  I went through SQLite tutorial.
 10. Understood docker & its importance.
 
-   ## ```Thank You``` ##
+   ### ```Thank You``` ###
